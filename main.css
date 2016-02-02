@@ -1,7 +1,3 @@
- /*
-  * "URLs on the domain" : <teamcity url>
- /*
- 
  * {
      border-color: #222 !important;
      text-shadow: none !important;
@@ -108,4 +104,17 @@
  }
  .attentionComment {
      background-color: #cc9966
+ }
+ #runBuildDialog {
+     background-color: #444
+ }
+ .dialogHandle {
+     background-color: #444
+ }
+ input[type="text"],
+ textarea {
+     background-color: #444;
+ }
+ #customBuild-paramType {
+     background-color: #444;
  }
