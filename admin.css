@@ -1,0 +1,31 @@
+ /*
+  * URLs starting with <teamcity url>/agents
+  * URLs starting with <teamcity url>/admin
+ */
+ 
+ * {
+     border-color: #444 !important;
+ }
+ td {
+     background-color: #222 !important;
+ }
+ table.dark th.emptyCell,
+ table.dark td.emptyCell {
+     background-color: #222 !important;
+ }
+ .runnerFormTable span.smallNote,
+ .runnerFormTable td select {
+     background-color: #333
+ }
+ .refreshableInner {
+     background-color: #333
+ }
+ .settingsBlock {
+     background-color: #222
+ }
+ .settingsBlockTitle {
+     background-color: #333
+ }
+ .settingsBlockContent {
+     background-color: #222
+ }
