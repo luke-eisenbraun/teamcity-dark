@@ -1,0 +1,111 @@
+ /*
+  * "URLs on the domain" : <teamcity url>
+ /*
+ 
+ * {
+     border-color: #222 !important;
+     text-shadow: none !important;
+     box-shadow: none !important;
+     color: #FFF !important;
+ }
+ body {
+     background-color: #191919 !important;
+     background-image:
+     /*[[bg-choice]]*/
+     
+     url() !important;
+     background-clip: border-box !important;
+     background-origin: padding-box !important;
+     background-attachment:
+     /*[[bg-attachment]]*/
+     
+     fixed !important;
+     /*[[bg-options]]*/
+ }
+ .build .projectHeader {
+     background-color: #222 !important;
+ }
+ .projectHeaderTable {
+     background-color: #222 !important;
+ }
+ tr {
+     background-color: #222 !important;
+ }
+ .lastFinished {
+     background-color: #191919 !important;
+ }
+ .btn {
+     background: #9ea3a9;
+     color: #FFF;
+ }
+ .overview-page .branchContainer .ufd input {
+     background: #444;
+     color: #FFF;
+ }
+ #new-projects {
+     background: #222
+ }
+ .tabCounter {
+     background: #444
+ }
+ .investigationsOld .investigationsLink {
+     background: #444;
+ }
+ .progress {
+     background-color: #333
+ }
+ .quickSearchQuery {
+     background-color: #444
+ }
+ .branch.hasBranch .branchName {
+     background: #555;
+     color: #FFF;
+ }
+ .simpleTabs .tabs li.selected a:link,
+ .simpleTabs .tabs li.selected {
+     background: #444;
+ }
+ .simpleTabs .tabs li p.branchNameSelector #branchNameSelector,
+ .simpleTabs .tabs li p.branchNameSelector > span.ufd {
+     background-color: #444;
+ }
+ .actionBar {
+     background-color: #222;
+ }
+ #footer {
+     background-color: #222;
+ }
+ #agentName {
+     background-color: #444;
+ }
+ .log {
+     background-color: #222;
+ }
+ .rTree .focus,
+ .rTree .focus .mark {
+     background-color: #333;
+ }
+ #startScreen {
+     background-color: #222;
+ }
+ .btn {
+     background-color: #444;
+ }
+ .systemProblemsBar {
+     background-color: #9a4444;
+ }
+ .selectedTreeNode {
+     background-color: #555;
+ }
+ .category-list .item.active {
+     background-color: #333
+ }
+ .admin-sidebar .item.active {
+     background-color: #444
+ }
+ .textField {
+     background-color: #333
+ }
+ .attentionComment {
+     background-color: #cc9966
+ }
