@@ -141,6 +141,7 @@ select {
 span.pc.highlightChanges {
     background-color: #cc9966
 }
-.popupDiv {
+.popupDiv,
+.modalDialogBody{
     background-color: #333
 }
