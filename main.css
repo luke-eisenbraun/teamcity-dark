@@ -145,3 +145,7 @@ span.pc.highlightChanges {
 .modalDialogBody{
     background-color: #333
 }
+
+#topWrapper, .clearfix, .groupingTitle, .groupingTitle td, .runnerFormTable tr.groupingTitle td, form {
+    background-color: #222;
+}
